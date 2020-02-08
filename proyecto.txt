@@ -1,2 +1,3 @@
-Hola este es mi primer proyecto con git
+Hola este es mi primer proyecto
+Ya soy un master de git
 
